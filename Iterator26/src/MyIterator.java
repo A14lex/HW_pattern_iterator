@@ -2,7 +2,7 @@ import java.util.Iterator;
 import java.util.Random;
 
 public class MyIterator implements Iterator<Integer> {
-//    Randoms randoms;
+    //    Randoms randoms;
     int min, max;
     Random random;
 
